@@ -328,7 +328,7 @@ const ColorSchemePreview = () => {
       <div className="mb-8 text-center">
         <h1 className="text-3xl sm:text-4xl font-bold mb-4">8 Pallet Warna Nobel Akademi</h1>
         <p className="text-gray-600 text-sm sm:text-base">
-          Pilih skema warna yang mewakili identitas visual Nobel Akademi dan rasakan tampilan profesional yang responsif.
+          Pilih skema warna yang mewakili identitas visual Nobel Akademi.
         </p>
       </div>
 
